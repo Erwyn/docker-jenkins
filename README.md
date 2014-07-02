@@ -1,3 +1,12 @@
+# Be aware
+
+All these crappyness are belong to me.
+
+Using this dockerfile kills kittens. It is a crappy way of persisting plugins installation and I'm not proud of it. Once I'll be better at jenkins deployments, I promise I'll change it.
+
+
+Better Dockerfile [here](https://github.com/aespinosa/docker-jenkins)
+
 # docker-jenkins
 
 Sets up a container with jenkins installed listening on port 8080.
